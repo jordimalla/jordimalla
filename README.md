@@ -2,4 +2,4 @@
 - 👀 I’m interested in IT Manager and .NET Developer
 - 🌱 I’m currently learning projecte manager, microservices and continuos integration (CI/CD)
 - 💞️ I’m looking to collaborate on digital transformation projects
-- 📫 How to reach me: https://www.linkedin.com/jordimalla
+- 📫 How to reach me: https://www.linkedin.com/in/jordimalla
